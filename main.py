@@ -4,7 +4,7 @@ from tkinter import messagebox
 root=Tk()
 root.geometry("1350x1000")
 root.title("Type writing")
-root.iconbitmap("D:\\Users\\ranks\\Desktop\\typewrite.ico")
+root.iconbitmap("C:\\Users\\ranks\\Desktop\\typewrite.ico")
 
 minutes=["1 Minute","2 Minutes","3 Minutes","5 Minutes"]
 minute=StringVar()
