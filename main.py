@@ -131,10 +131,10 @@ frame3.pack(side='top')
 frame4=Frame(root)
 
 
-image1=PhotoImage(file='D:\\Users\\ranks\\Desktop\\one.png')
-image2=PhotoImage(file='D:\\Users\\ranks\\Desktop\\Slide15.png')
-image3=PhotoImage(file='D:\\Users\\ranks\\Desktop\\Tricky-Words.png')
-image4=PhotoImage(file='D:\\Users\\ranks\\Desktop\\words.png')
+image1=PhotoImage(file='C:\\Users\\ranks\\Desktop\\one.png')
+image2=PhotoImage(file='C:\\Users\\ranks\\Desktop\\Slide15.png')
+image3=PhotoImage(file='C:\\Users\\ranks\\Desktop\\Tricky-Words.png')
+image4=PhotoImage(file='C:\\Users\\ranks\\Desktop\\words.png')
 
 img_list=[image1,image2,image3,image4]
 
